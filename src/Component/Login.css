@@ -1,0 +1,78 @@
+.regis{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    justify-content: center;
+    margin-left: 35%;
+    text-align: center;
+    background-color: rgba(128, 128, 128, 0.281);
+    padding: 20px;
+    margin-top: 3%;
+    border-radius: 5px;
+    @media screen and (max-width:500px) {
+      width: 100%;
+      margin-left: 0;
+      margin-top: 0;
+      padding-bottom: 32vh;
+      padding-top: 15%;
+    }
+}
+.regis h1{
+    padding-bottom: 30px;
+    padding-bottom: 15%;
+
+}
+.regis input{
+   margin-bottom: 30px;
+   padding: 8px;
+   border-radius: 5px;
+   outline: none;
+   border: none;
+   @media screen and (max-width:500px) {
+        
+
+   }
+}
+.regis button{
+    padding: 8px;
+    background-color: blue;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    color: white;
+    font-size: 17px;
+    margin-right: 20px;
+}
+.regis p{
+    font-size: 14px;
+}
+.mn{
+    text-decoration: none;
+    margin-bottom: 10px;
+}
+.regis p a{
+    text-decoration: none;
+    color: rgb(6, 6, 139);
+}
+.conect{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.conect button{
+    background-color: rgb(6, 7, 107);
+    margin-top: 10px;
+}
+span{
+    font-size: 20px;
+    padding-right: 10px;
+    
+}
+.nh button{
+    width: 88%;
+    
+    @media screen and (max-width:500px) {
+       width: 85%; 
+
+   }
+}

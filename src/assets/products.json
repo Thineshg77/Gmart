@@ -1,0 +1,97 @@
+[
+  {
+    "imgUrl": "https://i.ibb.co/bXqMwbF/cam.webp",
+    "name": "Go pro",
+    "price": 89999,
+    "id": 1
+  },
+  {
+    "imgUrl": "https://i.ibb.co/NmsgTZP/images-13.jpg",
+    "name": "Iphone 15 Pro",
+    "price": 99999,
+    "id": 2,
+     "discount":"Min 50% Off"
+  },
+  {
+    "id": 3,
+    "imgUrl": "https://i.ibb.co/R7v35rG/images-16.jpg",
+    "name": "Iphone 15",
+    "price": 69999,
+    "discount":"Min 50% Off"
+  },
+  {
+    "imgUrl": "https://i.ibb.co/MRxkQty/download.jpg",
+    "name": "Smart watch",
+    "price": 2099,
+    "id": 4,
+     "discount":"Min 50% Off"
+  },
+  {
+    "imgUrl": "https://i.ibb.co/wJ9H8gN/images-19.jpg",
+    "name": "Sony Headset",
+    "price": 20000,
+    "id": 5,
+   "discount":"Min 50% Off"
+  },
+  {
+    "imgUrl": "https://i.ibb.co/J3YBvZg/band.webp",
+    "name": "Wrist band",
+    "price": 997,
+    "id": 6
+  },
+  {
+    "imgUrl": "https://i.ibb.co/DbfSjmZ/glove.webp",
+    "name": "Gym Gloves",
+    "price": 1998,
+    "id": 7
+  },
+  {
+    "imgUrl": "https://i.ibb.co/YQj6FZM/gym.webp",
+    "name": "Skipping Rope",
+    "price": 299,
+    "id": 8
+  },
+  {
+    "imgUrl": "https://i.ibb.co/cJ8fkyC/thambles.webp",
+    "name": "Dhumbles",
+    "price": 2799,
+    "id": 9
+  },
+  {
+    "imgUrl": "https://i.ibb.co/vjpTTV2/images-14.jpg",
+    "name": "Puma Shoe",
+    "price": 20000,
+    "id": 10,
+    "discount":"Min 50% Off"
+  },
+  {
+    "imgUrl": "https://i.ibb.co/pj4CWd0/cchudi.webp",
+    "name": "Cotton Tops",
+    "price": 899,
+    "id": 11
+  },
+  {
+    "imgUrl": "https://i.ibb.co/WnTpNf1/chudi.webp",
+    "name": "Chudidhar",
+    "price": 1599,
+    "id": 12
+  },
+  {
+    "imgUrl": "https://i.ibb.co/WtFCh8F/gown.webp",
+    "name": "Gown",
+    "price": 5999,
+    "id": 13
+  },
+  {
+    "imgUrl": "https://i.ibb.co/nb403ht/shirt.webp",
+    "name": "Lygra shirt",
+    "price": 799,
+    "id": 14
+  },
+  {
+    "imgUrl": "https://i.ibb.co/mv7wqN7/tshirt.webp",
+    "name": "Sweat shirt",
+    "price": 2000,
+    "id": 15
+  }
+]
