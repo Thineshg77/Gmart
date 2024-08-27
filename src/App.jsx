@@ -6,6 +6,7 @@ import Home from './Component/Home';
 import Cart from './Component/Cart';
 import Login from './Component/Login';
 import Register from './Component/Register';
+import Thank from './Component/Thank';
 
 
 function App() {
@@ -22,6 +23,7 @@ function App() {
         <Route  path='/Cart' element={<Cart cart={cart} setcart={setcart}/>}/>
         <Route  path='/Login' element={<Login/>}/>
         <Route path='/Register' element={<Register/>}/>
+        <Route path='/Thank' element={<Thank/>}/>
       </Routes>
      </div>
      </BrowserRouter>

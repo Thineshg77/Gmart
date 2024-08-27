@@ -13,8 +13,8 @@ const End = () => {
     <p>Already have an account? <a href="/Login">Login</a></p>
     <div className="conects">
       <p>Or</p>
-      <button><span><FaFacebook /></span>Login with Facebook</button>
-      <button><span><FcGoogle /></span>login with Google</button>
+      <button><span><FaFacebook /></span><a href="https://www.facebook.com/">Login with Facebook</a></button>
+      <button><span><FcGoogle /></span><a href="https://www.google.co.in/">login with Google</a></button>
     </div>
     </div>
   )

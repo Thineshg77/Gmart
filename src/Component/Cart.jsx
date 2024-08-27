@@ -29,7 +29,7 @@ const Cart = ({product, cart, setcart}) => {
         ))
       }
     </div>
-  <button>Total amount:{total}</button>
+  <a href="/Thank"><button>Total amount:{total}</button></a>
    </div>
    
    
