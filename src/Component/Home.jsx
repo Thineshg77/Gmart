@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import data from '../assets/products.json'
 import './home.css'
-import Product from './product'
+import Product from './Product.jsx'
 import appli from '../Images/appli.webp'
 import flight from '../Images/flight.webp'
 import grocery from '../Images/grocery.webp'
