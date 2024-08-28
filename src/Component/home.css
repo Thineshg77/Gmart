@@ -18,17 +18,21 @@
     
 }
 .lest{
-    background-color: black;
+    background-color: rgb(2, 2, 41);
     height: 160px;
     width: 100%;
     margin-top: 32%;
     color: white;
     text-align: center;
     padding-top: 20px;
-    @media screen and (max-width:500px) {
-        margin-top: 380%;
-        height: 300px;
+    @media screen and (max-width:360px) {
+        margin-top: 460%;
+        height: 310px;
     }
+    @media screen and (min-width:361px) and (min-width:600px) {
+        display: none;
+    }
+   
 }
 .lest p{
     padding-top: 30px;
@@ -58,7 +62,7 @@
         height: 40px;
         width: 40px;
         margin-right: 0;
-        margin: 8px;
+        margin: 5px;
     }
 }
 .banner{
