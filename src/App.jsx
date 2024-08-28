@@ -1,12 +1,12 @@
 import { useState } from 'react';
 import './App.css';
-import Header from './Component/Header';
+import Header from './Component/Header.jsx';
 import {BrowserRouter,Route, Routes} from "react-router-dom";
-import Home from './Component/Home';
-import Cart from './Component/Cart';
-import Login from './Component/Login';
-import Register from './Component/Register';
-import Thank from './Component/Thank';
+import Home from './Component/Home.jsx';
+import Cart from './Component/Cart.jsx';
+import Login from './Component/Login.jsx';
+import Register from './Component/Register.jsx';
+import Thank from './Component/Thank.jsx';
 
 
 function App() {
